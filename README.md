@@ -28,3 +28,19 @@ This script should be regarded as alpha code which has been utilized in a produc
 ## License
 
 This code is released under the [Apache v2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+
+## Related Projects
+
+### Official FCC Resources
+
+* [FCC - Developers (APIs)](https://www.fcc.gov/reports-research/developers)
+* [FCC - Github](https://github.com/fcc)
+
+### PHP
+
+* [docket-stuffer](https://github.com/hdyami/docket-stuffer) - FreePress Docket Stuffer tool by [@hdyami](https://github.com/hdyami/)
+
+### Ruby
+
+* [ecfs](https://github.com/adelevie/ecfs) - "Helps you parse the FCC's Electronic Comment Filing System"; appears to be read-only retrieval of records.
+* [fcc-content-api](https://github.com/adelevie/fcc-content-api) - "A Ruby wrapper for the FCC Content API"
